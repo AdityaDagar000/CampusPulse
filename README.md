@@ -29,7 +29,7 @@ CampusPulse is a hyperlocal mobile solution that transforms a university campus 
 
 ### **Web MVP**
 Check out the live web prototype here:  
-🔗 https://campus-pulse-blush.vercel.app
+🔗 https://campus-pulse-two.vercel.app
 
 
 ---
