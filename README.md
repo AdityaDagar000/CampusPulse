@@ -1,6 +1,6 @@
 # CampusPulse 🚀
 **AI-Driven Peer-to-Peer Resource Mesh for Students**
-
+Demo id for vercel hosted app -> username -> aditya.dagar_cs24@gla.ac.in password -> hello@123
 CampusPulse is a hyperlocal mobile solution that transforms a university campus into a living library. It enables students to share resources—from calculators to textbooks—using AI-powered inventory management and a secure, trust-based handshake protocol.
 
 ---
